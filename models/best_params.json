@@ -1,0 +1,1 @@
+{"loss_function_twoclass":["Logloss"],"loss_function_multiclass":["MultiClass"],"learning_rate":[0.0101],"l2_leaf_reg":[5.3224],"bagging_temperature":[1.165],"random_strength":[3.3866],"depth":[3],"thread_count":[1],"logging_level":["Silent"],"allow_writing_files":[false],"save_snapshot":[false],"iterations":[372]}

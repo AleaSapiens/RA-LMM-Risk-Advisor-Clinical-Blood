@@ -1,0 +1,40 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+
+# Build files
+*.tar.gz
+*.Rcheck
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+
+# Cache
+.cache
+
+# renv
+renv/library
+renv/staging
+
+# Docker
+Dockerfile.old
+
+# Large local files
+data/
+output/
+results/
+logs/
